@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Página de Notícias]
 
+## [0.0.4] - 2024-01-09
+
+### Added
+
+- Exercicio: nova seção Educacao
+
 ## [0.0.3] - 2024-01-09
 
 ### Added
