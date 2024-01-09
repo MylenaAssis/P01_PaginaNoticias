@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Página de Notícias]
 
+## [0.0.1] - 2024-01-09
+
+### Added
+
+- Formatacao estrutura basica da pagina
+
 ## [0.0.0] - 2024-01-09
 
 ### Added
